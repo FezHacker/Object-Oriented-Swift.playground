@@ -1,3 +1,5 @@
+//: Go to Editor then click Show Rendered Markup
+
 //: Object-Oriented Swift OOS ( P )
 
 import UIKit
@@ -97,7 +99,7 @@ tshirt.size
 //: 1. Can not call Designated Initializer of a Super(Base) Class
 //: 2. Can not call Convenience Initializer of a Super(Base) Class
 //: 3. A Designated Initializer can not call the Convenience Initializer of a Super(Base) Class
-//: 4. Can call deginated Initializer within its class
+//: 4. Can call designated Initializer within its class
 
 //: Computed Properties
 class Product2 {
@@ -275,7 +277,7 @@ class classNameInheritance: className {
 
 
 
-//: Solution is on line 318
+//: Solution is on line 261
 
 
 
